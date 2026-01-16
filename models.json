@@ -1,0 +1,14 @@
+{
+  "models": [
+    {
+      "id": "zen-new",
+      "title": "Zen New",
+      "description": "A 3D printed model designed in Fusion 360. Perfect for [describe your model's purpose here].",
+      "thumbnail": "https://raw.githubusercontent.com/EinHades/3d-models/main/thumbnails/zen-new.jpg",
+      "downloadUrl": "https://raw.githubusercontent.com/EinHades/3d-models/main/Zen%20New.3mf",
+      "printablesUrl": "https://www.printables.com/@TomKramer_4075402",
+      "date": "2026-01-16",
+      "tags": ["functional", "fusion360"]
+    }
+  ]
+}
